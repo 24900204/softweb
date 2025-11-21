@@ -874,7 +874,9 @@ Publish the website in the given URL.
 <img width="1914" height="1122" alt="image" src="https://github.com/user-attachments/assets/23bb987d-1874-4915-bc2e-e4f515b77e85" />
 <img width="1912" height="1124" alt="image" src="https://github.com/user-attachments/assets/9b43432f-c798-4a94-9cde-f1d7feddeeae" />
 <img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/6b3d1c54-c3e2-48f9-9c35-50521ffe0477" />
-![Uploading image.png…]()
+
+
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/a97863d9-c9fb-415c-89d8-9ae79569d2e1" />
 
 
 ## RESULT:
